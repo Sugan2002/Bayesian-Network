@@ -1,4 +1,6 @@
-# Implementation of Bayesian Network
+### EXPERIMENT 1
+### DATE : 22.03.2023
+# <p align="center"> Implementation of Bayesian Network </P>
 
 ## AIM
 To create a Bayesian Network for the given dataset in Python.
